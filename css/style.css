@@ -60,6 +60,7 @@ p {
     left: 0;
     position: absolute;
     white-space: nowrap;
+    background-color: black;
 }
 
 .menu ul li:hover ul {
@@ -99,7 +100,15 @@ p {
 
 /* pagina home */
 
-/* pagina 400k a 314k.html */
+/* index historia ac */
+
+#index-anosac ul li a {
+    color: black;
+}
+
+/* index historia ac */
+
+/* pagina 400k a 315k.html */
 
 .grid-400k-315k {
     display: grid;
@@ -124,4 +133,4 @@ p {
     grid-column-end: 3;
 }
 
-/* pagina 400k a 314k.html */
+/* pagina 400k a 315k.html */
